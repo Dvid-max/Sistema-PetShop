@@ -21,7 +21,7 @@ public class PetModel {
     private Long id;
 
     @Column
-    private String tipo; //Todo: Fazer um Enum
+    private String tipo;
 
     @Column
     private String nome;
